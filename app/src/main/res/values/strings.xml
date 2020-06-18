@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Calificaciones Conalep</string>
+    <string name="app_add_id" translatable="false">ca-app-pub-key</string>
+    <string name="studentIdparam" translatable="false">matricula</string>
+    <string name="uuid" translatable="false">uuid</string>
+    <string name="calendar_html_source" translatable="false"><![CDATA[<body style=\'background-color:#000\'><img style=\'width:100%\' src=\'calendar.webp\' /></body>]]></string>
+    <string name="assets_path" translatable="false">file:///android_asset/</string>
+    <string name="html_encoding" translatable="false">utf-8</string>
+    <string name="html_mime_type" translatable="false">text/html</string>
+    <string name="soap_namespace" translatable="false">soap_namespace</string>
+    <string name="get_grades_method" translatable="false">get_grades_method</string>
+    <string name="soap_action_get_grades" translatable="false">soap_action_get_grades</string>
+    <string name="url" translatable="false">url</string>
+    <string name="empty_response" translatable="false">[]</string>
+    <string name="logo" translatable="false">logo</string>
+    <string name="show_calendar_top_add" translatable="false">show_calendar_top_add</string>
+    <string name="show_calendar_bottom_add" translatable="false">show_calendar_bottom_add</string>
+    <string name="show_list_adds" translatable="false">show_list_adds</string>
+    <string name="show_main_bottom_ad" translatable="false">show_main_bottom_ad</string>
+    <string name="number_of_ads_in_list" translatable="false">number_of_ads_in_list</string>
+    <string name="ad_free_user" translatable="false">ad_free_user</string>
+    <string name="calendar_banner_bottom_ad_unit_id" translatable="false">calendar_banner_bottom_ad_unit_id</string>
+    <string name="calendar_banner_top_ad_unit_id" translatable="false">calendar_banner_top_ad_unit_id</string>
+    <string name="native_ad_unit_id" translatable="false">native_ad_unit_id</string>
+    <string name="main_banner_bottom_ad_unit_id" translatable="false">main_banner_bottom_ad_unit_id</string>
+    <string name="about_banner_bottom_ad_unit_id" translatable="false">about_banner_bottom_ad_unit_id</string>
+    <string name="contact_email" translatable="false">contact_email</string>
+    <string name="website_url" translatable="false">website_url</string>
+    <string name="fb_id" translatable="false">fb_id</string>
+    <string name="tw_id" translatable="false">tw_id</string>
+    <string name="ig_id" translatable="false">ig_id</string>
+    <string name="privacy_policy_url" translatable="false">privacy_policy_url</string>
+    <string name="terms_and_conditions_url" translatable="false">terms_and_conditions_url</string>
+    <string name="ad" translatable="false">Ad</string>
+    <string name="spinner_prompt">Ratings to show</string>
+    <string name="student_id">Student ID</string>
+    <string name="calendar_activity_tile">School calendar</string>
+    <string name="data_no_available">Student ID is invalid or grades are not available</string>
+    <string name="error_parsing_data">error parsing data</string>
+    <string name="unknown_error">unknown error</string>
+    <string name="studentId_missing">Enter your ID</string>
+    <string name="spinner_option_label">° Semester</string>
+    <string name="indicators_progress">%1$s of %2$s</string>
+    <string name="pending_grade">P</string>
+    <string name="retry">Retry</string>
+    <string name="login">Login</string>
+    <string name="error_fetching_data_please_retry">Error getting configuration, please try again.</string>
+    <string name="error_getting_remote_config">Something went wrong: %1$s</string>
+    <string name="evaluated_indicators">Evaluated indicators: </string>
+    <string name="reached_percentage">Reached percentage: </string>
+    <string name="module">Module: </string>
+    <string name="school_period">School period: </string>
+    <string name="calendar">Calendar: </string>
+    <string name="teacher">Teacher:</string>
+    <string name="percentage">%1$s %%</string>
+    <string name="about">About</string>
+    <string name="logout">Sign off</string>
+    <string name="press_back_again_to_exit">press back again to exit.</string>
+    <string name="open_source_licenses">Open source licenses</string>
+    <string name="version">Version %1$s</string>
+    <string name="contact">Contact us</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="terms_and_conditions">Terms &amp; Conditions</string>
+    <string name="legal">Legal</string>
+    <string name="close_app">Close app</string>
+    <string name="later">Later</string>
+    <string name="update_app_title">Please Update the App</string>
+    <string name="update_app_body">A new version of this app is available. Please update it</string>
+    <string name="update_action">Update</string>
+    <string name="about_app">%1$s is an app designed so you can check your grades quickly and easily.\nThis application is NOT developed by or related to the Colegio Nacional de Educación Profesional Técnica (CONALEP).</string>
+</resources>

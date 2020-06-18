@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>latest_app_version</key>
+        <value>1</value>
+    </entry>
+    <entry>
+        <key>url</key>
+        <value />
+    </entry>
+    <entry>
+        <key>uuid</key>
+        <value />
+    </entry>
+    <entry>
+        <key>soap_namespace</key>
+        <value />
+    </entry>
+    <entry>
+        <key>get_grades_method</key>
+        <value />
+    </entry>
+    <entry>
+        <key>about_banner_bottom_ad_unit_id</key>
+        <value />
+    </entry>
+    <entry>
+        <key>main_banner_bottom_ad_unit_id</key>
+        <value />
+    </entry>
+    <entry>
+        <key>calendar_banner_bottom_ad_unit_id</key>
+        <value />
+    </entry>
+    <entry>
+        <key>calendar_banner_top_ad_unit_id</key>
+        <value />
+    </entry>
+    <entry>
+        <key>native_ad_unit_id</key>
+        <value />
+    </entry>
+    <entry>
+        <key>number_of_ads_in_list</key>
+        <value>2</value>
+    </entry>
+    <entry>
+        <key>show_main_bottom_ad</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>show_calendar_top_add</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>show_calendar_bottom_add</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>show_list_adds</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>show_about_add</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>is_breaking_update</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>latest_version_code</key>
+        <value>2</value>
+    </entry>
+</defaultsMap>
+<!-- END xml_defaults -->
